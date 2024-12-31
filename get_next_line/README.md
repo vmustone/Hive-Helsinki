@@ -14,9 +14,3 @@ The **get_next_line** project is a function that reads a line from a file descri
   The function uses static variables to retain the current position in the file across multiple function calls. This is crucial because it allows `get_next_line` to "remember" its state between reads, without needing to pass extra state information.
 
 ---
-
-## Function Signature
-
-```c
-char *get_next_line(int fd);
-
