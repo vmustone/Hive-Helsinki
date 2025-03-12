@@ -32,3 +32,9 @@ You can replace `<HOSTNAME>` with the IP address or hostname of your machine tha
 For online play need to have two registered users and one of them should create a game and can join the game by clicking on online play.
 
 You can find more information about the project in the README.md file in the backend directory of the project. every microservice has its own README.md file in its directory.
+## Creators
+mtoof
+abbastoof
+trsctr
+nicktvdd
+fotogiorgo
